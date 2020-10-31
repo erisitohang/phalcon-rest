@@ -6,3 +6,4 @@
 *.swp
 .php*
 !.php_cs.dist
+/.phalcon
